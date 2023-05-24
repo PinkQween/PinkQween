@@ -1,6 +1,6 @@
 # PinkQween - iOS Developer
 
-![Profile Picture](https://github.com/PinkQween.png)
+<!-- ![Profile Picture](https://github.com/PinkQween.png) -->
 
 Welcome to my GitHub profile! I'm PinkQween, an iOS developer and the owner of Skairipa Apps. I have a passion for creating elegant and user-friendly mobile applications. I strive to deliver high-quality and innovative solutions. I also work some on React.js and React Native, as well as some unity.
 
