@@ -49,6 +49,12 @@ Skairipa Fitness Tracker is a comprehensive fitness and activity tracking app fo
 - C++
 - C#
 
+## Diplomas
+
+- Excelance in Language and Literature
+- Certificate of Contenuation
+- VR design with Unity game engine
+
 ## Contact
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at therealsquireboone@gmail.com
