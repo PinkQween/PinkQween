@@ -55,6 +55,7 @@ Skairipa Fitness Tracker is a comprehensive fitness and activity tracking app fo
 - Certificate of Contenuation
 - VR design with Unity game engine
 - Certificate of completion SWiFT
+- Game Design and Development 101 with Unreal Engine
 
 ## Contact
 
