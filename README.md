@@ -1,8 +1,11 @@
+
 # PinkQween - iOS Developer
 
-<!-- ![Profile Picture](https://github.com/PinkQween.png) -->
+<!-- ![Profile Picture](https://avatars.githubusercontent.com/u/83796834?v=4) -->
 
-Welcome to my GitHub profile! I'm PinkQween, an iOS developer and the owner of Skairipa Apps. I have a passion for creating elegant and user-friendly mobile applications. I strive to deliver high-quality and innovative solutions. I also work some on React.js and React Native, as well as some unity.
+<img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
+
+Welcome to my GitHub profile! I'm PinkQween or Hanna Skairipa, I'm a full stack developer usually working with JavaScript or TypeScript. Right now my main project is Diskairipa a better version of Discord coded from complete scratch. I am using Typescript for both the ends of the app and have everything done like that for security and allows for bots to also work easily. I have a passion for creating for simple and easy to use apps that are complex making my users have a enjoyable life!
 
 <img alt="PinkQweens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
 
@@ -52,11 +55,16 @@ Skairipa Fitness Tracker is a comprehensive fitness and activity tracking app fo
 - C
 - C++
 - C#
+- Express
+- Redux
+- Linux
+- Bash
+- 
 
 ## Diplomas
 
-- Excelance in Language and Literature
-- Certificate of Contenuation
+- Excellence in Language and Literature
+- Certificate of Continuation
 - VR design with Unity game engine
 - Certificate of completion SWiFT
 - Game Design and Development 101 with Unreal Engine
@@ -65,6 +73,6 @@ Skairipa Fitness Tracker is a comprehensive fitness and activity tracking app fo
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at therealsquireboone@gmail.com
 
-Looking forward to collaborating and creating amazing iOS applications together!
+Looking forward to collaborating and creating amazing applications together!
 
 > "Making dialy life easier."
