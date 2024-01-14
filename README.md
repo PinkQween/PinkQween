@@ -6,6 +6,8 @@
 <p align="center">
 <img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
 
+#
+
 <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,-UNKOWN&column=-1&margin-w=5&margin-h=5">
 </p></p>
 
