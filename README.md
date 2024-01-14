@@ -5,6 +5,8 @@
 
 <img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
 
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,-UNKOWN&column=-1&margin-w=5&margin-h=5">
+
 Welcome to my GitHub profile! I'm PinkQween or Hanna Skairipa, I'm a full stack developer usually working with JavaScript or TypeScript. Right now my main project is Diskairipa a better version of Discord coded from complete scratch. I am using Typescript for both the ends of the app and have everything done like that for security and allows for bots to also work easily. I have a passion for creating for simple and easy to use apps that are complex making my users have a enjoyable life!
 
 <img alt="PinkQweens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
