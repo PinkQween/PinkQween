@@ -64,9 +64,8 @@ Skairipa Fitness Tracker is a comprehensive fitness and activity tracking app fo
 - Redux
 - Linux
 - Bash
-- 
 
-## Diplomas
+## Diplomas && Certificates
 
 - Excellence in Language and Literature
 - Certificate of Continuation
