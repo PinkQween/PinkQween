@@ -81,4 +81,4 @@ Feel free to reach out to me if you have any questions, suggestions, or collabor
 
 Looking forward to collaborating and creating amazing applications together!
 
-> "Making dialy life easier."
+> "Making daily life easier."
