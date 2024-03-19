@@ -14,9 +14,11 @@
 
 Welcome to my GitHub profile! I'm PinkQween or Hanna Skairipa, I'm a full stack developer usually working with JavaScript or TypeScript. Right now my main project is Diskairipa a better version of Discord coded from complete scratch. I am using Typescript for both the ends of the app and have everything done like that for security and allows for bots to also work easily. I have a passion for creating for simple and easy to use apps that are complex making my users have a enjoyable life!
 
-<p align="center">
+<p align="center" style="display:flex;flexDirection:column">
 <img alt="PinkQweens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
+</p>
 
+<p align="center" style="display:flex;flexDirection:column">
 <img alt="PinkQweens's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkQween&theme=radical&layout=compact">
 </p>
 
