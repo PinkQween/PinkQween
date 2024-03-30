@@ -4,8 +4,6 @@
 <img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
 </p>--!>
 
-#
-
 <!-- ![snake gif](https://github.com/PinkQween/PinkQween/blob/output/github-contribution-grid-snake.gif) --!>
 
 <p align="center">
