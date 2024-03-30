@@ -14,6 +14,9 @@
 
 Welcome to my GitHub profile! I'm Hanna Skairipa aka PinkQween, I'm a full stack developer usually working with JavaScript or TypeScript.
 
+<br />
+<br />
+
 <p align="center" style="display:flex;flexDirection:column">
 <img alt="PinkQweens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
 </p>
