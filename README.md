@@ -1,8 +1,8 @@
 
 # PinkQween - iOS Developer
-<p align="center">
+<!--<p align="center">
 <img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
-</p>
+</p>--!>
 
 #
 
