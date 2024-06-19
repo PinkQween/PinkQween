@@ -82,7 +82,7 @@ Skairipa Fitness Tracker is a comprehensive fitness and activity tracking app fo
 
 ## Contact
 
-Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at therealsquireboone@gmail.com
+Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at hanna@hannaskairipa.com
 
 Looking forward to collaborating and creating amazing applications together!
 
