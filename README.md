@@ -7,7 +7,7 @@
 <!-- ![snake gif](https://github.com/PinkQween/PinkQween/blob/output/github-contribution-grid-snake.gif) --!>
 
 <p align="center">
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,-UNKOWN&column=-1&margin-w=5&margin-h=5">
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,&column=-1&margin-w=5&margin-h=5">
 </p>
 
 Welcome to my GitHub profile! I'm Hanna Skairipa aka PinkQween, I'm a full stack developer usually working with JavaScript or TypeScript.
