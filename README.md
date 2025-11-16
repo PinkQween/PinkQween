@@ -86,6 +86,6 @@ Feel free to reach out to me if you have any questions, suggestions, or collabor
 
 Looking forward to collaborating and creating amazing applications together!
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=e10bff)
 
 > "Making daily life easier."
