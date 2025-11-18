@@ -7,7 +7,7 @@
 <!-- ![snake gif](https://github.com/PinkQween/PinkQween/blob/output/github-contribution-grid-snake.gif) --!>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=e10bff)
+![](https://komarev.com/ghpvc/?username=pinkqween&color=e10bff)
 
 <p align="center">
 <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,&column=-1&margin-w=5&margin-h=5">
