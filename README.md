@@ -1,15 +1,9 @@
-
 # Hanna Skairipa - Full-stack developer
-<!--<p align="center">
-<img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
-</p>--!>
-
-<!-- ![snake gif](https://github.com/PinkQween/PinkQween/blob/output/github-contribution-grid-snake.gif) --!>
 
 <img src="https://komarev.com/ghpvc/?username=pinkqween&color=e10bff">
 
 <p align="center">
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,&column=-1&margin-w=5&margin-h=5">
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C&column=-1&margin-w=5&margin-h=5">
 </p>
 
 Welcome to my GitHub profile! I'm Hanna Skairipa, aka PinkQween. I'm a full-stack developer, usually working with Swift or TypeScript.
@@ -17,18 +11,18 @@ Welcome to my GitHub profile! I'm Hanna Skairipa, aka PinkQween. I'm a full-stac
 <br />
 <br />
 
-<p align="center" style="display:flex;flexDirection:column">
-<img alt="PinkQweens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
+<p align="center" style="display:flex;flex-direction:column">
+<img alt="PinkQween's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
 </p>
 
-<p align="center" style="display:flex;flexDirection:column">
-<img alt="PinkQweens's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkQween&theme=radical&layout=compact">
+<p align="center" style="display:flex;flex-direction:column">
+<img alt="PinkQween's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkQween&theme=radical&layout=compact">
 </p>
 
 ## Skills
 
 - Swift
-- Swift UI
+- SwiftUI
 - iOS SDK
 - UIKit
 - AutoLayout
@@ -36,7 +30,7 @@ Welcome to my GitHub profile! I'm Hanna Skairipa, aka PinkQween. I'm a full-stac
 - RESTful APIs
 - Git
 - UI/UX Design
-- Javascript
+- JavaScript
 - React.js
 - CSS
 - SCSS
@@ -53,12 +47,12 @@ Welcome to my GitHub profile! I'm Hanna Skairipa, aka PinkQween. I'm a full-stac
 - Bash
 - Much more
 
-## Diplomas && Certificates
+## Diplomas and Certificates
 
 - Excellence in Language and Literature
 - Certificate of Continuation
-- VR design with Unity game engine
-- Certificate of completion SWiFT
+- VR Design with Unity Game Engine
+- Certificate of Completion SWiFT
 - Game Design and Development 101 with Unreal Engine
 - And more
 
