@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=pinkqween&color=e10bff">
 
 <p align="center">
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C&column=-1&margin-w=5&margin-h=5">
+<img alt="Trophies" src="https://github-profile-trophy-tawny.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C&column=-1&margin-w=5&margin-h=5">
 </p>
 
 Welcome to my GitHub profile! I'm Hanna Skairipa, aka PinkQween. I'm a full-stack developer, usually working with Swift or TypeScript.
