@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm Hanna Skairipa, aka PinkQween. I'm a full-stac
 <br />
 
 <p align="center" style="display:flex;flex-direction:column">
-<img alt="PinkQween's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
+<img alt="PinkQween's GitHub Stats" src="https://ghs.hannaskairipa.com/api?username=PinkQween&show_icons=true&theme=radical">
 </p>
 
 <p align="center" style="display:flex;flex-direction:column">
-<img alt="PinkQween's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkQween&theme=radical&layout=compact">
+<img alt="PinkQween's Top Langs" src="https://ghs.hannaskairipa.com/api/top-langs/?username=PinkQween&theme=radical&layout=compact">
 </p>
 
 ## Skills
